@@ -1,0 +1,8 @@
+C:\Users\Andalusi\Desktop\Sistema_Logistica\Datos\bin\Debug\Datos.dll
+C:\Users\Andalusi\Desktop\Sistema_Logistica\Datos\bin\Debug\Datos.pdb
+C:\Users\Andalusi\Desktop\Sistema_Logistica\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Andalusi\Desktop\Sistema_Logistica\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Andalusi\Desktop\Sistema_Logistica\Datos\obj\Debug\Datos.dll
+C:\Users\Andalusi\Desktop\Sistema_Logistica\Datos\obj\Debug\Datos.pdb
+C:\Users\Andalusi\Desktop\Sistema_Logistica\Datos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Andalusi\Desktop\Sistema_Logistica\Datos\obj\Debug\Datos.csproj.CopyComplete
